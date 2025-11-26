@@ -1,4 +1,11 @@
-# Ditto
+# Ditto (currently untouched fork)
+
+> **Note:** This is a fork intended for integration into the [LLM Conversion Framework](https://github.com/Smilez1985/llm_conversion_framework).
+
+## 🎯 Plan
+I'm planning to adopt this agent into my **llm-conversion-framework** to enable easy creation of new community models within the **Module Creation Wizard**.
+
+It is intended to automate the coding work by analyzing hardware probes and filling in the framework's templates (Dockerfiles, Config-Scripts) with the correct variables (Architecture, CPU-Flags, SDK-Paths).
 
 [![License](https://img.shields.io/github/license/yoheinakajima/ditto)](LICENSE)
 
